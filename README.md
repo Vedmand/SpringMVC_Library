@@ -7,4 +7,4 @@ Spring MVC;
 Spring JDBC;
 Hibernate validator;
 
-Thymeleaf;
+Thymeleaf; Postresql;
